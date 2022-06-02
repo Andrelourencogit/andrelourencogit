@@ -1,6 +1,6 @@
 ## Oiii eu sou a André Lourenço, Frontend e amante da tecnologia!
 <div align="center">
-  <a href="https://github.com/andrelourencogit">
+  <a href="https://github.com/Andrelourencogit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrelourencogit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrelourencogit&layout=compact&langs_count=7&theme=dracula"/>
 </div>
